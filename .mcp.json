@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "adflex": {
+      "type": "http",
+      "url": "https://api.adflex.ai/api/mcp"
+    }
+  }
+}

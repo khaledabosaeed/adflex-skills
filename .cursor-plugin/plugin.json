@@ -1,0 +1,24 @@
+{
+  "$schema": "https://cursor.com/schemas/cursor-plugin/plugin.json",
+  "name": "adflex",
+  "displayName": "AdFlex",
+  "version": "0.1.0",
+  "description": "Image, video, voiceover and music generation, video finishing, Workflows, and social publishing via the AdFlex MCP connector.",
+  "author": {
+    "name": "AdFlex"
+  },
+  "publisher": "AdFlex",
+  "homepage": "https://adflex.ai",
+  "repository": "https://github.com/adflex-ai/skills",
+  "license": "MIT",
+  "category": "ai-content",
+  "keywords": [
+    "adflex",
+    "image-generation",
+    "video-generation",
+    "video-editing",
+    "social-media",
+    "marketing",
+    "mcp"
+  ]
+}

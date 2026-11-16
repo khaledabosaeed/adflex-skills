@@ -1,0 +1,28 @@
+{
+  "name": "adflex",
+  "owner": {
+    "name": "AdFlex",
+    "url": "https://adflex.ai"
+  },
+  "plugins": [
+    {
+      "name": "adflex",
+      "source": "./",
+      "description": "Image, video, voiceover and music generation, product photos, talking ads, carousels, video remix (Genjutsu), zero-credit video finishing, native Workflows, branded PDFs, brand and library lookups, and social publishing and insights via the AdFlex MCP connector, plus the AdFlex content team's reel process.",
+      "version": "0.1.0",
+      "skills": [
+        "./adflex-generate",
+        "./adflex-product-photo",
+        "./adflex-talking-ad",
+        "./adflex-carousel",
+        "./adflex-video-remix",
+        "./adflex-video-edit",
+        "./adflex-workflows",
+        "./adflex-documents",
+        "./adflex-brand",
+        "./adflex-social-publish",
+        "./adflex-reels"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "adflex",
+  "version": "0.1.0",
+  "description": "Image, video, voiceover and music generation, video finishing, Workflows, and social publishing via the AdFlex MCP connector.",
+  "author": {
+    "name": "AdFlex",
+    "url": "https://adflex.ai"
+  },
+  "homepage": "https://adflex.ai",
+  "repository": "https://github.com/adflex-ai/skills",
+  "license": "MIT",
+  "keywords": [
+    "adflex",
+    "image-generation",
+    "video-generation",
+    "video-editing",
+    "social-media",
+    "marketing",
+    "mcp"
+  ],
+  "skills": "./",
+  "interface": {
+    "displayName": "AdFlex",
+    "shortDescription": "Make and publish marketing content with AdFlex",
+    "longDescription": "AdFlex Skills turn Codex into a marketing production agent. Generate images, videos, voiceovers, music and storyboards, cut and mix footage at zero credits, run multi-step Workflows, and draft, schedule and publish Facebook, Instagram, TikTok, LinkedIn, X and YouTube posts with confirmation, all on your AdFlex account through the AdFlex MCP connector.",
+    "developerName": "AdFlex",
+    "category": "Design",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://adflex.ai",
+    "defaultPrompt": [
+      "Make a 9:16 product ad video with AdFlex",
+      "Generate a social post image for my coffee shop",
+      "Trim this Instagram reel and add a voiceover",
+      "Schedule this post for tomorrow at 9am",
+      "How did my Instagram posts do this month?"
+    ],
+    "brandColor": "#8337F1"
+  }
+}

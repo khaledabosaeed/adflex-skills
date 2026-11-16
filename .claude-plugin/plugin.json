@@ -1,0 +1,26 @@
+{
+  "name": "adflex",
+  "version": "0.1.0",
+  "description": "AdFlex AI marketing studio skills: generate images, videos, voiceovers and music, edit footage, run Workflows, and publish to Facebook, Instagram, TikTok, LinkedIn, X and YouTube through the AdFlex MCP connector.",
+  "author": {
+    "name": "AdFlex",
+    "url": "https://adflex.ai"
+  },
+  "homepage": "https://adflex.ai",
+  "repository": "https://github.com/adflex-ai/skills",
+  "license": "MIT",
+  "mcpServers": "./.mcp.json",
+  "keywords": [
+    "adflex",
+    "image-generation",
+    "video-generation",
+    "voiceover",
+    "ugc",
+    "video-editing",
+    "social-media",
+    "instagram",
+    "facebook",
+    "marketing",
+    "mcp"
+  ]
+}
